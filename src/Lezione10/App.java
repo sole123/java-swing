@@ -17,6 +17,7 @@ public class App {
     
     public static void main(String[] args) {
         System.out.println("Java-Swing example is running-------------");
+        System.out.println("finish!");
         
     }
     
